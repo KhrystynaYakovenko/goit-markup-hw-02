@@ -36,11 +36,7 @@ ul {
 .menu-nav:hover{
     color: #404BBF;
 }
-.nav-studio:active{
-    color: #404BBF;
-    text-decoration: underline;
-}
-.nav-studio:focus{
+.menu-nav:focus{
 color: #404bbf
 }
 .contacts-info{
