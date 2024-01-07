@@ -25,7 +25,7 @@ ul {
 .logo-top{
     color: #2E2F42;
 }
-.nav-studio, .nav-portfolio, .nav-contacts{
+.menu-nav{
     color: #2E2F42;
     text-decoration: none;
     font-family: "Roboto", sans-serif;
@@ -33,9 +33,7 @@ ul {
     line-height: 1.5;
     letter-spacing: 0.02em
 }
-.nav-studio:hover,
-.nav-portfolio:hover,
-.nav-contacts:hover{
+.menu-nav:hover{
     color: #404BBF;
 }
 .nav-studio:active{
