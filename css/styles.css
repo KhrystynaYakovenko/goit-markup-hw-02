@@ -42,6 +42,9 @@ ul {
     color: #404BBF;
     text-decoration: underline;
 }
+.nav-studio:focus{
+color: #404bbf
+}
 .contacts-info{
     font-style: normal
 }
